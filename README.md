@@ -19,7 +19,7 @@ apt install python
 
 apt install python3
 
-git clone https://github.com/bohaydar/Andro-Bom.git
+git clone https://github.com/Alirvd/ibnshr.git
 
 cd Andro-Bom
 
